@@ -19,10 +19,10 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Bogdan Achim
+name: Bo Achim
 organizations:
-- name: Akademia Sztuk Pięknych
-  url: "https://asp.krakow.pl"
+- name: Akademia
+  url: "https://example.com"
 role: Professor of Artificial Intelligence
 social:
 - icon: envelope
