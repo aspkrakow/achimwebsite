@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Doświadczenie"
-  url = "#experience"
+  url = "experience"
   weight = 10
 
 [[main]]
