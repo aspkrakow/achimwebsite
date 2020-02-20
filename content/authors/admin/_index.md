@@ -5,10 +5,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
+  - course: Habilitacja na Wydziale Rzeźby
+    institution: Akademia Sztuk Pięknych w Krakowie
+    year: 2015
+  - course: Doktorat na Wydziale Rzeźby
+    institution: Akademia Sztuk Pięknych w Krakowie
+    year: 2009
   - course: ???????
     institution: Skowhegan School of Art
     year: 1995
-  - course: ?????
+  - course: Dyplom Magister Sztuki na Wydziale Grafiki
     institution:  Akademia Sztuk Pięknych w Krakowie
     year: 1993
   - course: ??????
@@ -16,24 +22,24 @@ education:
     year: 1990
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- ???????
+- ???????
+- ???????
 name: Bo Achim
 organizations:
 - name: Akademia
   url: "https://example.com"
-role: Professor of Artificial Intelligence
+role: Profesor
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.pl/scholar?hl=pl&as_sdt=0%2C5&q=Bogdan+Achimescu&btnG=
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
