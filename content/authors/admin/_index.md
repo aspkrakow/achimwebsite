@@ -28,7 +28,7 @@ interests:
 name: Bo Achim
 organizations:
 - name: Akademia
-  url: "https://example.com"
+  url: "https://asp.krakow.pl"
 role: Profesor
 social:
 - icon: envelope
