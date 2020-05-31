@@ -21,10 +21,7 @@ education:
     institution: Academia de Arte Vizuale, Cluj, Rumunia
     year: 1990
 email: ""
-interests:
-- ???????
-- ???????
-- ???????
+
 name: Bo Achim
 organizations:
 - name: Akademia
