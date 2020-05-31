@@ -40,9 +40,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.pl/scholar?hl=pl&as_sdt=0%2C5&q=Bogdan+Achimescu&btnG=
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
