@@ -20,17 +20,17 @@ education:
   - course: ??????
     institution: Academia de Arte Vizuale, Cluj, Rumunia
     year: 1990
-email: ""
+email: "bachimescu@asp.krakow.pl"
 
-name: Bo Achim
+name: Bogdan Achimescu
 organizations:
-- name: Akademia
+- name: Akademia Sztuk Pięknych im. Jana Matejki w Krakowie
   url: "https://asp.krakow.pl"
-role: Profesor
+role: Dr hab. Prof. ASP
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:bachimescu@asp.krakow.pl'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
