@@ -17,7 +17,6 @@ image:
 projects: []
 ---
 
-
 Od dłuższego czasu przymierzam się do napisania tekstu o sytuacji, w której się znaleźliśmy. Ponieważ stan wyjątkowy (ten faktyczny, choć nie ogłoszony) trwa już drugi miesiąc, mógłbym się nawet pokusić o podsumowanie pewnego etapu. Kiedy opublikowałem tekst o statucie, ustawie i psie nie przypuszczałem, że nasz i tak niełatwy kontekst może się tak głęboko zmienić. Co tu dużo mówić, nie jest wesoło. Brak bezpośredniego kontaktu kierownictwa z pracownikami, dydaktyków ze studentami oraz nas wszystkich z samą materią naszej pracy, niweczy istotną część naszej działalności statutowej. Trudno sobie dziś wyobrazić rysowanie, malowanie, projektowanie, konserwowanie czy tworzenie performensów bez dotykania materii i bez obecności publiki.
 
 Więcej: kto nie ubolewałby nad uwiądem współpracy zagranicznej, nad anulowanymi programami wymiany, zatrzymanymi publikacjami i grantami? Opuścili nas nasi wspaniali studenci z programów wymiany zagranicznej.
@@ -26,7 +25,7 @@ Straciliśmy na długie tygodnie przestrzeń, która jest centrum naszego życia
 
 Na domiar złego, świat kultury i sztuki, z którym znajdujemy się w naturalnej symbiozie, znajduje się w sytuacji wręcz dramatycznej. Nie chcą tego dostrzegać skupione nad czubkiem własnego nosa władze szczebli wszelkich, proponujące nieadekwatne, ubogie i wymagające skomplikowanych aplikacji programy pomocowe.
 
-Właściwie ten aspekt prowokuje mnie do tak ciętych słów, że postanowiłem napisać je do szuflady, którą otworze do potrzeb odrębnego artykułu. Na razie swoje frustracje wentylowałem w rozmowie z Markiem Kęskrawcem. Ale niniejszy tekst ma być optymistyczny!
+Właściwie ten aspekt prowokuje mnie do tak ciętych słów, że postanowiłem napisać je do szuflady, którą otworze do potrzeb odrębnego artykułu. Na razie swoje frustracje wentylowałem [w rozmowie z Markiem Kęskrawcem](https://dziennikpolski24.pl/trzy-szybkie-jak-ludzie-kultury-radza-sobie-w-czasach-koronawirusa-rozmowa-z-prof-bogdanem-achimescu-prorektorem-asp-w-krakowie/ar/c1-14927162). Ale niniejszy tekst ma być optymistyczny!
 
 
 Patrząc na pełną połowę szklanki, można zauważyć pozytywy wymuszonej izolacji. Właśnie nad nimi chciałbym się skupić, gdyż dotyczą one tej wąskiej strefy naszej działalności, która nam chwilowo zostaje: pracy zdalnej.
